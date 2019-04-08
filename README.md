@@ -2,3 +2,4 @@ Most of the credit for creation of this site goes to the template Author: Ryan F
 
 Thanks, Ryan
 
+My contributions, aside from some code and content changes, are the images that were created by me. 
